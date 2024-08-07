@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Documents/t"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tictoatoe"
+	}
+}
